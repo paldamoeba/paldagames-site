@@ -5,3 +5,4 @@ h1{font-size:30px;line-height:1.2;margin:0 0 6px;color:var(--accent)}h2{font-siz
 p,li{max-width:66ch}.muted{color:var(--muted)}a{color:var(--accent)}ul{padding-left:22px}
 nav{display:flex;gap:16px;margin-bottom:26px;font-weight:600}nav a{text-decoration:none}
 footer{margin-top:44px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:15px}
+.btn{display:inline-block;padding:12px 22px;border-radius:10px;background:var(--accent);color:var(--bg);font-weight:700;text-decoration:none}
